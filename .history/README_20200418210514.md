@@ -1,0 +1,1 @@
+# quarkus-openid-docker-compose
